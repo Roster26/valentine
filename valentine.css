@@ -188,4 +188,8 @@ body {
   font-size:25px;
 
 }
-#canvas {width: 50%;height: 50%;}
+#canvas {
+  width: 40%;
+  height: 20%;
+  marging-top: 50px;
+}
